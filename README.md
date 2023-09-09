@@ -1,3 +1,5 @@
+# TIKTAKTOE GAME
+
 Abstract:
 This scientific report presents a project that implements a TIC TAC TOE game with an artificial intelligence (AI) opponent. The project utilizes the pygame library in Python to provide a graphical user interface and incorporates a simple AI algorithm based on the minimax algorithm. The report provides an overview of the project's objectives, the implemented methods and algorithms, and the experimental results.
 
